@@ -17,4 +17,5 @@ WITH APPLICATION TO FREQUENCY EQUALIZATION](https://www.mdpi.com/2076-3417/10/2/
 ### vstplugin
 
 [DDSP-VST: Neural Audio Synthesis for All](https://magenta.tensorflow.org/ddsp-vst-blog)
+
 [DeepAFx: Deep Audio Effects](https://mchijmma.github.io/DeepAFx/)
